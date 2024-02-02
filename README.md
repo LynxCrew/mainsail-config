@@ -31,7 +31,7 @@ The instructions assume that you have an up to data and working moonraker instal
 
 ```sh
 cd ~
-git clone https://github.com/mainsail-crew/mainsail-config.git
+git clone https://github.com/LynxCrew/mainsail-config.git
 ln -sf ~/mainsail-config/mainsail.cfg ~/printer_data/config/mainsail.cfg
 ```
 
